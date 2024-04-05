@@ -1,0 +1,9 @@
+- download and unzip file 
+- run "npm install" -> install package
+- open android studio and choose specific device
+- run "npm run android" - > start android emulator
+- if there is any error with your devices specifically relating to node or npm 
+try some command 
+npm install expo@latest
+npx expo doctor
+after thtat, follow the instruction 
